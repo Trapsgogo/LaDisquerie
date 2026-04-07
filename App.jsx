@@ -82,13 +82,10 @@ async function fetchNewReleases() {
 const PROMPTS = [
   { time: "07/04/2026 11:00", text: "On veut créer une application web qui permet d'avoir un suivi de notre collection de disque. Il faut donc pouvoir créer des comptes en base de données. On veut une page de connexion, lorsque l'on se connecte on veut pouvoir ajouter nos CD. Il faudra que tu crées une API qui vient prendre toute la collection sur le site IMBD. Ensuite il faut que l'on puisse manager nos disques... (Message initial)" },
   { time: "07/04/2026 11:15", text: "Je viens de t'envoyer le fichier de mon projet et j'aimerais que tu règles le problème qui fais que le bouton ne fonctionne pas" },
-  { time: "07/04/2026 11:20", text: "Je veux que le site prenne toute la page et que tu me dise comment connecter l'API IMBD" },
-  { time: "07/04/2026 11:25", text: "ça me parait peux pour acdc" },
   { time: "07/04/2026 11:30", text: "je voudrais que tu fasse une barre de recherche pour l'artiste et une pour les chanson et une pour les album et je voudrais aussi que tu me trouve un moyen d'afficher les image des album, chanson etc" },
   { time: "07/04/2026 11:34", text: "la nouveauté connecte la a l'api ansuite mets la possibilité de mttre en favoris des disque de ma collection et rend fonctionnel l'onglet achat en mettant des liens amazon, fnac" },
   { time: "07/04/2026 11:37", text: "pour les favoris rajoute leur des liens spotify et apple music ensuite fais en sorte que l'on peut mettre les disque en futur achat et aussi rajoute un lien leboncoin et ebay dans les futurs achat" },
   { time: "07/04/2026 11:41", text: "rend le responsive, supprime les mention trapsgogo et les disque d'exemple dans futurs achat etc" },
-  { time: "07/04/2026 11:48", text: "voici la page nouveauté ça ne charge pas. et pourquoi tout viens de 2024 ?" }
 ];
 
 // ─── Credits ─────────────────────────────────────────────────────────
